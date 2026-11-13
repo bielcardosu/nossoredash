@@ -1,9 +1,9 @@
 # Dashboard de Vendas com Redash
 
-Trabalho da disciplina **[NOME DA DISCIPLINA]**: apresentação de ferramentas de BI e análise de dados.
+Trabalho da disciplina **SISTEMAS DE APOIO À DECISÃO**: apresentação de ferramentas de BI e análise de dados.
 
-**Grupo:** [NOME 1], [NOME 2], [NOME 3], [NOME 4]
-**Professor(a):** [NOME]
+**Grupo:** ANDRÉ FILIPE FONTES FREITAS, LUCAS ARAGÃO DAMACENO, MIKAEL DOUGLAS SANTOS FARIAS, PAULO GABRIEL DE OLIVEIRA CARDOSO
+**Professor(a):** GILTON JOSÉ FERREIRA DA SILVA
 **Ferramenta estudada:** [Redash](https://redash.io)
 
 ---
