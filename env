@@ -1,7 +1,7 @@
 REDASH_REDIS_URL=redis://redis:6379/0
-POSTGRES_PASSWORD=minhasenha123
+POSTGRES_PASSWORD=senha123
 REDASH_COOKIE_SECRET=qualquer-texto-longo-1
 REDASH_SECRET_KEY=qualquer-texto-longo-2
-REDASH_DATABASE_URL=postgresql://postgres:minhasenha123@postgres/postgres
+REDASH_DATABASE_URL=postgresql://postgres:senha123@postgres/postgres
 REDASH_ENFORCE_CSRF=true
 REDASH_GUNICORN_TIMEOUT=60
